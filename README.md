@@ -4,7 +4,7 @@ I'm a Backend Engineer and Software Builder focused on designing scalable system
 
 I build backend architecture that goes beyond simple CRUD applications—working with complex business logic, hierarchical systems, payment workflows, integrations, webhooks, and production-grade software.
 
-Currently building at **ShadanTech**.
+Currently building at **UniqPay** and independently building software products on the side through **ShadanTech**.
 
 ---
 
